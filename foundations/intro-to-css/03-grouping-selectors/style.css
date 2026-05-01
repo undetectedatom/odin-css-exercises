@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.modern {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+.modern.black {
+    background-color: black;
+    color: white;
+}
+
+.modern.yellow{
+    background-color: yellow;
+}
